@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "Ricci Chrome Extension",
+    "version" : "69.420",
+    "permissions" : [
+        "<all_urls>"
+    ],
+    "content_scripts" : [
+        {
+            "matches" : [
+                "<all_urls>"
+            ],
+            "js" : ["ricci.js"]
+        }
+    ]
+}
