@@ -2,7 +2,7 @@
 
 Ricci is a browser extension that let's you play with text generation.
 
-Or if you are a nerd, it's the first zero shot conditional text generator
- and open ended conversational agent ( It will soon be also differentiable) in 105 languages, banged together in a couple
-Of hours for EDUCATIONAL purposes.
 
+Now nerd in talk:
+It's the first zero shot conditional text generator and open ended conversational agent
+that you can speak to in 100 languages, Banged together in a couple of hours for EDUCATIONAL purposes.
