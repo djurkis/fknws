@@ -1,1 +1,1 @@
-![Ricci](https://github.com/djurkis/ricci/blob/master/ricci.png?raw=true)
+![Ricci](https://github.com/djurkis/ricci/blob/main/ricci.png?raw=true)
